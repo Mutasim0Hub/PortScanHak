@@ -1,0 +1,3 @@
+```text
+# PortScanHak uses only built-in Python modules
+# No additional external libraries required
